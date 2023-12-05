@@ -1,4 +1,4 @@
-public class ConsumidorPremioImpulsionador extends Consumidor {
+public class ClienteBonificado extends Cliente {
     @Override
     public String verificarAvaliacao() {
         if(this.getAvaliacao() >= 9){
