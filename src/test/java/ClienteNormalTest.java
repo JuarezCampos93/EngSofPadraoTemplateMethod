@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ConsumidorPremioIsentoTest {
+class ClienteNormalTest {
 
     @Test
     void deveRetornarComPremioNeutro(){
