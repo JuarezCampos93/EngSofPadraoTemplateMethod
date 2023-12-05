@@ -1,4 +1,4 @@
-public class ConsumidorPremioIsento extends Consumidor {
+public class ClienteNormal extends Cliente{
     public String verificarAvaliacao() {
         if(this.getAvaliacao() >= 7){
             return "Prêmio";
