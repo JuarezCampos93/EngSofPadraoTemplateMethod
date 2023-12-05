@@ -1,4 +1,4 @@
-public abstract class Consumidor {
+public abstract class Cliente {
     private String nome;
     private int avaliacao;
     private String sugestao;
